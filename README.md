@@ -1,6 +1,6 @@
 ### Olá! Eu sou Anderson Cruz ✟
 
-- 🌱 Estudando .Net 
+- 🌱 Estudando .Net & C#
 - 😄 Pronouns: ele/dele
  #
 
