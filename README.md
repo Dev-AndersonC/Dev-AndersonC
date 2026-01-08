@@ -1,6 +1,6 @@
 ### Olá! Eu sou Anderson Cruz ✟
 #### Sobre min
-  - Me chamo Anderson e tenho 22 anos, sou apaixonado por café.
+  - Me chamo Anderson e tenho 23 anos, sou apaixonado por café.
   - Amo desenvolvimento desde novo, curto criar pequenos aplicativos e aplicações no dia a dia.
   - Apaixonado por jogos, edição, animação, dublagem é tudo remetente a bolha tech
     
