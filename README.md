@@ -1,5 +1,5 @@
 ### Olá! Eu sou Anderson Cruz ✟
-Desenvolvedor Back-end .NET em formação, cursando Análise e Desenvolvimento de Sistemas, com foco em C#, APIs e boas práticas de desenvolvimento. Busco construir soluções escaláveis, evoluir em arquitetura de software e expandir meus conhecimentos também no desenvolvimento mobile com Flutter.
+Desenvolvedor Back-end em formação, cursando Análise e Desenvolvimento de Sistemas, com foco em C#, APIs e boas práticas de desenvolvimento. Busco construir soluções escaláveis, evoluir em arquitetura de software e expandir meus conhecimentos também no desenvolvimento mobile com Flutter.
     
 ## 🚀 Back-End Stack
 
